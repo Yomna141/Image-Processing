@@ -37,7 +37,7 @@ def stretching(img_name):
     normalizedGreenBand = multiBands[1].point(normalizeGreen)
     normalizedBlueBand = multiBands[2].point(normalizeBlue)
 
-    # Create a new image from the contrast stretched red, green and blue brands
+    # Create a new image from the contrast stretched rgb brands
     normalizedImage = Image.merge("RGB", (normalizedRedBand, normalizedGreenBand, normalizedBlueBand))
 
     pil_img = Image.fromarray(np.uint8(normalizedImage))

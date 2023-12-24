@@ -71,7 +71,7 @@ class ImageHistogramApp:
             canvas_widget = canvas.get_tk_widget()
             canvas_widget.pack()
 
-            # Display the figure
+            # Display figure
             canvas.draw()
 
 if __name__ == "__main__":
