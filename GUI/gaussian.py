@@ -25,7 +25,7 @@ def apply_filter(image, filter):
 
 def main():
     image_path = 'img/gray.jpg'
-    original_image = np.array(Image.open(image_path).convert('L'))  # Convert to grayscale
+    original_image = np.array(Image.open(image_path).convert('L'))  # Convert original to grayscale
 
     original_image = original_image.astype(float) / 255.0
 
