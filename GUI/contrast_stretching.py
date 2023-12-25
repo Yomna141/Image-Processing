@@ -1,6 +1,9 @@
 from PIL import Image, ImageOps
 import numpy as np
 
+
+
+# this is a method to enhanse image quality 
 # Method to process the red band of the image
 def normalizeRed(intensity):
     iI = intensity
