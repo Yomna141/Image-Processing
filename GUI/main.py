@@ -17,7 +17,7 @@ from equalization import equalize  # Import the equalization function
 from contrast_stretching import stretching
 from scipy.ndimage import gaussian_filter
 from numpy.fft import fft2, ifft2, fftshift, ifftshift
-from noise_types import (
+from noiseTypes import (
     exponential_noise,
     gaussian_noise,
     rayleigh_noise, 
