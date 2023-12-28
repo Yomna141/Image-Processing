@@ -2,4 +2,4 @@ This is a file for an image processing project containing the images used during
 
 
 
-hey there I added a new file that suggestes a new style for the gui check it out if you want byeeeee
+the GUI module has all the filters that is used to process (enhance) the image 
