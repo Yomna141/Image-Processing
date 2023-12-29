@@ -1,11 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Image Processing Tool</title>
-</head>
-<body>
 
 # Image Processing Tool
 
@@ -61,7 +53,7 @@ Contributions are welcome! If you have ideas for new features or improvements, f
 - **Norhan Momen**
 
 Click <a href="https://github.com/Yomna141/Image-Processing/blob/main/Image_Processing%20(1).pdf">here</a> for more info!!
-</body>
-</html>
+
+
 
 
