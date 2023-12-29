@@ -21,7 +21,9 @@ Welcome to the Image Processing Tool repository! This tool provides basic functi
     code .
     ```
 
-3. Upload an image and start experimenting with the available filters.
+3. Run the program (ctrl + F5)
+
+4. Upload an image and start experimenting with the available filters.
 
 ## Filters
 
