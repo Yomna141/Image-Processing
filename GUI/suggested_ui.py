@@ -11,7 +11,7 @@ class ImageProcessingApp:
         self.root = root
         self.root.title("Image Processing App")
 
-        # Create a canvas with a vertical scrollbar
+        # Create canvas with a vertical scrollbar
         self.canvas = tk.Canvas(root, bg="lightgray")
         self.scrollbar = ttk.Scrollbar(root, orient="vertical", command=self.canvas.yview)
         self.scrollable_frame = ttk.Frame(self.canvas)

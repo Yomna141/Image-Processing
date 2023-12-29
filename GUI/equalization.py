@@ -7,7 +7,7 @@ def equalize(img_name):
     # applying equalize method
     im2 = ImageOps.equalize(im1, mask=None)
 
-    # Save the equalized image
+    # Save equalized image
     im2.save('img/equalized_image.jpg')
 
 # Call the function to test
